@@ -31,9 +31,6 @@ IDE: An IDE like IntelliJ IDEA (Recommended) or Eclipse.
 2. Installation & Setup
 Step 1: Clone the Repository Open your terminal and run the following git command:
 
-git clone [https://github.com/udaypratapsingh4667/Banking_Management_System.git](https://github.com/udaypratapsingh4667/Banking_Management_System.git)
-(Alternatively, you can download the project as a ZIP file).
-
 Step 2: Open in IntelliJ IDEA Open IntelliJ IDEA and select "Open" to import the cloned project folder. The IDE should automatically recognize the lib folder and its dependencies.
 
 Step 3: Database Setup (Crucial Step) You must create the database and tables in MySQL before running the application.
